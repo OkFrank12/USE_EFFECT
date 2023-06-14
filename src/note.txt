@@ -1,0 +1,7 @@
+google fonts: poppings...
+sites: twitch.tv
+make the homescreen responsive. @1100 let right remove @600 let middle cover whole and left goes up.
+do countdown - and +;
+
+design the piggy vest website
+design a dashboard
